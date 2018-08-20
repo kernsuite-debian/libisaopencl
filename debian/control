@@ -1,0 +1,13 @@
+Source: libisaopencl
+Section: science
+Priority: extra
+Maintainer: KERN packaging <packaging@kernsuite.info>
+Build-Depends: cmake, debhelper (>=9), opencl-clhpp-headers
+Standards-Version: 3.9.8
+Homepage: https://github.com/isazi/opencl
+
+Package: libisaopencl
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Simple C++ library containing OpenCL utilities.

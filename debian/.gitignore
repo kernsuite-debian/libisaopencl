@@ -1,0 +1,9 @@
+.debhelper/
+files
+libisautils.debhelper.log
+libisautils.substvars
+libisautils/
+libisaopencl.debhelper.log
+libisaopencl.substvars
+libisaopencl/
+

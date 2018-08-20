@@ -1,0 +1,5 @@
+libisaopencl (1.1-1) bionic; urgency=low
+
+  * Initial release. 
+
+ -- KERN packaging <packaging@kernsuite.info>  Mon, 20 Aug 2018 16:00:19 +0200

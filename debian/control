@@ -2,7 +2,7 @@ Source: libisaopencl
 Section: science
 Priority: extra
 Maintainer: KERN packaging <packaging@kernsuite.info>
-Build-Depends: cmake, debhelper (>=9), opencl-clhpp-headers
+Build-Depends: cmake, debhelper (>=9), opencl-clhpp-headers, opencl-c-headers, libisautils
 Standards-Version: 3.9.8
 Homepage: https://github.com/isazi/opencl
 

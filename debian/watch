@@ -1,3 +1,3 @@
 version=4
 opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/libisaopencl-$1\.tar\.gz/ \
-  https://github.com/sazi/OpenCL/tags .*/v?(\d\S+)\.tar\.gz
+  https://github.com/isazi/OpenCL/tags .*/v?(\d\S+)\.tar\.gz
